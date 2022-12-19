@@ -1,11 +1,11 @@
 {
-  "name": "jo-bot",
-  "version": "8.5.4",
+  "name": "Vall666愛.",
+  "version": "9.2.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ."
   },
   "keywords": [
     "termux",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "The Jo Bot.",
+  "author": "Vall666愛.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:THEJO307/Baileys",
@@ -62,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/THEJO307/jo-private.git"
+    "url": "git+https://github.com/Vall-Afk/F.git"
   },
   "bugs": {
     "url": "https://github.com/THEJO307/jo-private/issues"
